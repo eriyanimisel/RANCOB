@@ -1,4 +1,4 @@
-kontrol	cuci dan lap	cuci dan semprot
+kontrol	      cuci dan lap	          cuci dan semprot
 950				857						 917
 887				1189					 1072
 897				918						 975
